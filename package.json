@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "daisyui": "^4.4.24",
+    "daisyui": "^4.5.0",
+    "init": "^0.1.2",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
@@ -25,6 +26,7 @@
     "@typescript-eslint/parser": "^6.10.0",
     "@vitejs/plugin-react": "^4.2.0",
     "autoprefixer": "^10.4.16",
+    "daisyui": "^3",
     "eslint": "^8.53.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
